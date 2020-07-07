@@ -6,6 +6,7 @@ Various programming questions solved that touch upon a variety of topics such as
 ## Corrections/Details
 
 **Lab6**
+
 Rotation is to the right (for part 1)
 for part 1, I will put the values here instead of a file
 
@@ -38,3 +39,6 @@ The input file is 'inl62.txt' the output is -1,2 (difference = 40)
 
 **Lab 7**
 Contains sample input file (in.txt) and corresponding output file (out.txt)
+
+**Lab 8** 
+In the pdf file, the input in the example is given as 2,2 make that 2 2 
