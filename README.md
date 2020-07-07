@@ -8,21 +8,29 @@ Various programming questions solved that touch upon a variety of topics such as
 **Lab6**
 Rotation is to the right (for part 1)
 for part 1, I will put the values here instead of a file
+
 5
+
 1 4 7 23 17
+
 23 4 5 6 77
 
 Shift of 4 (r=to the right), added information not displayed distance = 65
 
 3
+
 1 5 6
+
 2 4 8
 
 shift of 0 (distance = 4)
 
 6
+
 7 4 5 6 2 8
+
 6 5 1 4 2 3
+
 shift of 0
 
 For part 2
