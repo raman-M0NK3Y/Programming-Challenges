@@ -42,3 +42,9 @@ Contains sample input file (in.txt) and corresponding output file (out.txt)
 
 **Lab 8** 
 In the pdf file, the input in the example is given as 2,2 make that 2 2 
+
+**Lab 9**
+Contains sample files for input and output
+original file: name.txt
+the uncompressed binary file: test.txt
+The compressed file: test_c.txt
