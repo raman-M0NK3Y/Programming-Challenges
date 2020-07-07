@@ -35,3 +35,6 @@ shift of 0
 
 For part 2
 The input file is 'inl62.txt' the output is -1,2 (difference = 40)
+
+**Lab 7**
+Contains sample input file (in.txt) and corresponding output file (out.txt)
